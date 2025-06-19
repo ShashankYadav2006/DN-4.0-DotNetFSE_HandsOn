@@ -1,7 +1,7 @@
 
 # DN4.0 Deep Skilling - Week 1
 
-## ✅ Week-1: Design Patterns and Principles
+## Week-1: Design Patterns and Principles
 
 ### Exercise 1: Singleton Pattern
 
@@ -61,7 +61,7 @@ Saving spreadsheet:  MyDocument.xlsx
 
 ---
 
-## ✅ Week-1: Data Structures and Algorithm
+## Week-1: Data Structures and Algorithm
 
 ### Exercise 1: E-commerce Platform Search Function
 
@@ -97,7 +97,7 @@ java ForecastDemo
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Java 21  
 - OOP and Design Patterns (Singleton, Factory Method)  
@@ -105,7 +105,7 @@ java ForecastDemo
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 DN-4.0-HANDSON-TASK/
