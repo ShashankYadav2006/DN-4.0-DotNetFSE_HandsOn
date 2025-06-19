@@ -1,6 +1,6 @@
 # DN4.0 Deep Skilling - Week 1
 
-## Week-1: Design Patterns and Principles (C# Version)
+## Week-1: Design Patterns and Principles 
 
 ### Exercise 1: Singleton Pattern
 
