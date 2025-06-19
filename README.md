@@ -19,16 +19,6 @@ javac Logger.java TestLogger.java
 java TestLogger
 ```
 
-**Sample Output:**
-```
-[Logger Initialized]
-[main] Logging message: "First message"
-[main] Logging message: "Second message"
-Logger instance comparison: logger1 and logger2 refer to the same object ? true
-[Thread-1] Logging message: "Message from thread 1"
-[Thread-2] Logging message: "Message from thread 2"
-```
-
 ---
 
 ### Exercise 2: Factory Method Pattern
@@ -49,15 +39,6 @@ javac *.java
 java TestFactory
 ```
 
-**Sample Output:**
-```
-Opening Word document: MyDocument.docx
-Saving docs MyDocument.docx
-Opening PDF document: MyDocument.pdf
-Saving PDF MyDocument.pdf
-Launching Excel sheet: MyDocument.xlsx
-Saving spreadsheet:  MyDocument.xlsx
-```
 
 ---
 
