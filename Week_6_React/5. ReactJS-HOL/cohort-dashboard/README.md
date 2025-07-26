@@ -119,6 +119,3 @@ student-app/
 
 ---
 
-## 🧾 License
-
-This project is part of a hands-on module for Cognizant MyAcademy ReactJS training.
